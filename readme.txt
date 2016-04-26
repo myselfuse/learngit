@@ -1,1 +1,4 @@
-i shi yi ge haoren wo hui hen gaoxing dejkdfjjfdafjadsfasfajffgdhggsjfq
+Git is a distributed version control system.
+Git is free softwore.
+
+
